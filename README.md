@@ -12,14 +12,6 @@ Welcome! This repository contains a selection of my most relevant certifications
 
 ---
 
-## ✅ Automation Testing Certification – Java & Selenium
-
-🔗 [Download PDF](./AutomationTesting_Certification_Java_Selenium.pdf)
-
-**Description:** Practical certification focused on automated testing using Selenium WebDriver with Java, covering framework design and implementation.
-
----
-
 ## ✅ Diploma – QA Automation Engineer
 
 🔗 [Download PDF](./Diploma%20for%20QA%20Automation%20Engineer.pdf)
@@ -28,9 +20,17 @@ Welcome! This repository contains a selection of my most relevant certifications
 
 ---
 
-## ✅ Cypress End-to-End Testing – Udemy
+## ✅ Automation Testing Certification – Java & Selenium
 
-🔗 [Download PDF](./Cypress_Udemy_Certificate.pdf)
+🔗 [Download PDF](./AutomationTesting_Certification_Java_Selenium.pdf)
+
+**Description:** Practical certification focused on automated testing using Selenium WebDriver with Java, covering framework design and implementation.
+
+---
+
+## ✅ Cypress Web Automation Testing – Udemy
+
+🔗 [Download PDF](./Cypress_WebAutomationTesting_Prezhdarova.pdf)
 
 **Description:** Completed comprehensive Udemy course covering Cypress fundamentals, test writing, debugging, fixtures, API testing, and CI integration.
 
@@ -45,6 +45,6 @@ Welcome! This repository contains a selection of my most relevant certifications
 ---
 
 📫 **Contact**  
-📧 Email: *[prezhdarova@gmail.com]*  
+📧 Email: prezhdarova@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/rositsa-prezhdarova-11113a84/](https://linkedin.com/in/rositsa-prezhdarova-11113a84/)  
 🔗 GitHub: [github.com/RPrezhdarova](https://github.com/RPrezhdarova)
