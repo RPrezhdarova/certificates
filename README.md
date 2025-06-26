@@ -1,6 +1,11 @@
-# 🎓 Certifications – Rositsa Prezhdarova
+# 🎓 Certifications & CV – Rositsa Prezhdarova
 
-Welcome! This repository contains a selection of my most relevant certifications in QA, Test Automation, and IT Service Management.
+Welcome! This repository contains a selection of my most relevant certifications and my professional CV in QA, Test Automation, and IT Service Management.
+
+📄 **[Download My CV (PDF)](./Rositsa_Prezhdarova_CV.pdf)**  
+🔗 **LinkedIn:** [linkedin.com/in/rositsa-prezhdarova-11113a84](https://linkedin.com/in/rositsa-prezhdarova-11113a84)  
+🔗 **GitHub:** [github.com/RPrezhdarova](https://github.com/RPrezhdarova)  
+📧 **Email:** prezhdarova@gmail.com
 
 ---
 
@@ -48,10 +53,3 @@ Welcome! This repository contains a selection of my most relevant certifications
 🔗 [Download PDF](./ITIL_Certification_Rositsa.pdf)
 
 **Description:** Certification in IT Service Management principles based on the ITIL® framework, focusing on best practices in service delivery and lifecycle.
-
----
-
-📫 **Contact**  
-📧 Email: prezhdarova@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/rositsa-prezhdarova-11113a84/](https://linkedin.com/in/rositsa-prezhdarova-11113a84/)  
-🔗 GitHub: [github.com/RPrezhdarova](https://github.com/RPrezhdarova)
