@@ -4,6 +4,14 @@ Welcome! This repository contains a selection of my most relevant certifications
 
 ---
 
+## ✅ ISTQB® Certified Tester – Foundation Level
+
+🔗 [Download PDF](./ISTQB_FoundationLevel_Prezhdarova_27_09_2024.pdf)
+
+**Description:** International certification covering the fundamentals of software testing, aligned with ISTQB standards.
+
+---
+
 ## ✅ Automation Testing Certification – Java & Selenium
 
 🔗 [Download PDF](./AutomationTesting_Certification_Java_Selenium.pdf)
@@ -25,14 +33,6 @@ Welcome! This repository contains a selection of my most relevant certifications
 🔗 [Download PDF](./Cypress_Udemy_Certificate.pdf)
 
 **Description:** Completed comprehensive Udemy course covering Cypress fundamentals, test writing, debugging, fixtures, API testing, and CI integration.
-
----
-
-## ✅ ISTQB® Certified Tester – Foundation Level
-
-🔗 [Download PDF](./ISTQB_FoundationLevel_Prezzhdarova_27_09_2022.pdf)
-
-**Description:** International certification covering the fundamentals of software testing, aligned with ISTQB standards.
 
 ---
 
